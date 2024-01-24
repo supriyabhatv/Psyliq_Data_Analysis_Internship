@@ -14,14 +14,10 @@ that involved HR data analysis using Power BI and Excel, Employee Data Analysis 
 - Utilized a pivot table to consolidate the total number of employees in each department.
 - Developed a dashboard integrating charts and pivot tables to provide an overview of key HR metrics, including headcount, performance, and training costs.
 ### DIABETICS PREDICTION USING SQL:
-1. SQL Query-Based Database Setup:
-I initiated the project by setting up a MySQL database, employing SQL queries for creating tables and defining the schema. This fundamental step laid the groundwork for subsequent data manipulations.
-
-2. Data Preprocessing with SQL Queries:
-Addressing data quality was achieved through a series of SQL queries. From handling missing values to cleaning outliers, each query played a crucial role in preparing the dataset for predictive modeling.
-
-3. Predictive Modeling Using SQL:
-The heart of the project was the application of SQL queries for predictive modeling. Leveraging SQL's analytical capabilities, I crafted queries to identify potential diabetics based on patterns and trends discovered in the data.
-
-4. Evaluation Metrics Using SQL:
-To measure the performance of the predictive model, I utilized SQL queries for basic evaluation metrics. This step ensured that the model's predictions were assessed and validated directly within the database environment.
+- Data Retrieval and Filtering: Utilized SELECT and WHERE clauses to retrieve specific patient information and filter data based on criteria such as age and gender.
+- Aggregation and Analysis: Employed aggregate functions (AVG, MAX, MIN) and sorting (ORDER BY) for statistical analysis and insights into patient health metrics.
+- Statistical Analysis and Grouping: Demonstrated advanced analysis techniques, including grouping (GROUP BY), counting (COUNT), and ranking (ROW_NUMBER, DENSE_RANK) for 
+  nuanced patient categorization.
+- Data Modification and Constraints: Showcased data modification using UPDATE, INSERT INTO, and DELETE FROM. Established a UNIQUE constraint on patient IDs for data 
+  integrity. 
+  
