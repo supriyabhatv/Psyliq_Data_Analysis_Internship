@@ -3,15 +3,11 @@ Hi there! I'm Supriya Bhat V, a proactive data analyst who recently completed a 
 that involved HR data analysis using Power BI and Excel, Employee Data Analysis using Excel and diabetics prediction using SQL.
 
 ### HR DATA ANALYSIS WITH POWER BI AND EXCEL:
-1. Pivot Tables in Excel:
-I harnessed the power of pivot tables to transform raw HR data into actionable insights. Pivot tables facilitated dynamic data summarization, enabling me to uncover trends and patterns crucial for decision-making.
-
-2. Dashboards in Excel:
-Creating interactive dashboards in Excel allowed stakeholders to visualize complex HR metrics effortlessly. I tailored dashboards to highlight key performance indicators, ensuring a user-friendly experience for decision-makers.
-
-3. Power BI Charts and DAX:
-The integration of Power BI took data visualization to the next level. I leveraged Power BI charts to present HR analytics with clarity. Additionally, utilizing DAX formulas enhanced the depth of analysis, enabling the extraction of more nuanced insights from the dataset.
-
+- Utilized tools like Excel and Power BI to create visualizations that showcase the distribution of employees across departments, roles, and age groups.
+- Analyzed key metrics such as average monthly income, job satisfaction, and salary hike impacts.
+- Employ filters and pivot tables to segment data, providing a clear overview of the workforce composition.
+- Created visual representations, such as line charts in Power BI, to track trends in employee attrition over the years.
+- Utilize calculated columns and DAX to determine average years an employee has spent with their current manager. 
 ### EMPLOYEE DATA ANALYSIS WITH EXCEL:
 1. Pivot Tables:
 Pivot tables served as the backbone of my data exploration process. They enabled me to quickly summarize, analyze, and transform raw data into meaningful information, providing a solid foundation for subsequent analysis.
