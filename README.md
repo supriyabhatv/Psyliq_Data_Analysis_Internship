@@ -30,6 +30,9 @@ During my internship at Psyliq, I spearheaded an extensive project focused on an
 - Integration for Comprehensive Insights: Integrated Power BI visualizations with Excel analysis to provide stakeholders with comprehensive insights into HR metrics, 
   facilitating data-driven decision-making and strategic planning.
 
+### Conclusion:
+The Employee Data Analysis project at Psyliq demonstrated my proficiency in utilizing advanced Excel functionalities, including pivot tables, conditional formatting, and dashboard creation, to derive actionable insights from complex datasets. By leveraging these tools effectively, I was able to provide valuable insights into workforce dynamics and performance metrics, contributing to informed decision-making and organizational improvement initiatives. This experience has enhanced my analytical skills and prepared me for future roles requiring expertise in data analysis and visualization using Excel.
+
   
 ## Project Title: Employee Data Analysis using Excel
 
@@ -56,11 +59,43 @@ I led a comprehensive project aimed at analyzing employee data to derive actiona
   potential issues affecting workforce management.
 - Dashboard Visualization: Developed intuitive dashboards that allowed stakeholders to interactively explore employee data, facilitating informed decision-making and 
   strategic planning.
-### DIABETICS PREDICTION USING SQL:
-- Data Retrieval and Filtering: Utilized SELECT and WHERE clauses to retrieve specific patient information and filter data based on criteria such as age and gender.
-- Aggregation and Analysis: Employed aggregate functions (AVG, MAX, MIN) and sorting (ORDER BY) for statistical analysis and insights into patient health metrics.
-- Statistical Analysis and Grouping: Demonstrated advanced analysis techniques, including grouping (GROUP BY), counting (COUNT), and ranking (ROW_NUMBER, DENSE_RANK) for 
-  nuanced patient categorization.
-- Data Modification and Constraints: Showcased data modification using UPDATE, INSERT INTO, and DELETE FROM. Established a UNIQUE constraint on patient IDs for data 
-  integrity. 
+
+### Conclusion:
+The HR Data Analysis project at Psyliq showcased my proficiency in leveraging Power BI and Excel for data analysis and visualization. By combining the dynamic visualization capabilities of Power BI with the analytical power of Excel, I was able to provide stakeholders with actionable insights into HR metrics, enabling informed decision-making and strategic planning. This experience has strengthened my skills in data analysis and visualization and prepared me for future roles requiring expertise in HR analytics and reporting using Power BI and Excel.
+
+
+## Project Title: Diabetes Prediction using SQL
+
+### Introduction:
+In this project, I utilized SQL to develop a predictive model for diabetes occurrence based on a dataset containing medical and demographic information of patients. By leveraging SQL's querying capabilities, I aimed to identify patterns and factors associated with diabetes risk and create a predictive model to forecast the likelihood of diabetes in individuals.
+
+### Project Objectives:
+- Data Retrieval and Filtering:Utilized SQL SELECT and WHERE clauses to retrieve specific patient information and filter data based on criteria such as age, gender, and 
+  medical history.
+- Aggregation and Analysis:Employed aggregate functions (e.g., AVG, MAX, MIN) and sorting (ORDER BY) to perform statistical analysis and gain insights into patient health 
+  metrics such as glucose levels, BMI, and blood pressure.
+- Statistical Analysis and Grouping:Demonstrated advanced analysis techniques, including grouping (GROUP BY), counting (COUNT), and ranking (ROW_NUMBER, DENSE_RANK), to 
+  categorize patients based on various factors such as age groups, BMI ranges, and glucose levels.
+- Data Modification and Constraints:Showcased data modification operations using SQL UPDATE, INSERT INTO, and DELETE FROM to manage and manipulate patient data.
+  Established a UNIQUE constraint on patient IDs to ensure data integrity and prevent duplicate records.
+
+### Methodologies:
+- Data Preprocessing and Cleaning:Preprocessed the dataset by handling missing values, outliers, and inconsistencies to ensure data quality and reliability.
+- Feature Engineering:Derived additional features or transformed existing ones to enhance the predictive power of the model, such as calculating BMI from height and weight 
+  measurements.
+- Model Development:Utilized SQL queries to implement a predictive model, such as logistic regression or decision trees, to forecast the likelihood of diabetes based on 
+  patient attributes and medical history.
+
+### Outcomes and Insights:
+- Identification of Risk Factors:Identified key risk factors associated with diabetes occurrence through SQL analysis, including age, BMI, glucose levels, and family 
+  medical history.
+- Predictive Model Accuracy:Developed a predictive model using SQL queries that accurately forecasts the likelihood of diabetes in individuals based on input features, with 
+  performance metrics meeting predefined thresholds.
+- Actionable Insights:Provided actionable insights to healthcare professionals and policymakers to develop targeted intervention strategies and preventive measures for 
+  individuals at high risk of diabetes.
   
+### Conclusion:
+The Diabetes Prediction project showcases the application of SQL queries in developing a predictive model for diabetes occurrence based on patient data. By leveraging SQL's querying capabilities for data retrieval, analysis, and model development, I was able to extract insights, identify risk factors, and create a predictive model to forecast the likelihood of diabetes, contributing to proactive healthcare management and disease prevention efforts.
+
+
+
